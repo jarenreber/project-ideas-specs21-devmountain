@@ -1,0 +1,6 @@
+Ideas for capstone of specs:
+-revamp and add to foundations capstone on a mountain biking trail tracker
+-create a chat app that is made for making travel plans with friends with a login
+-create a canyoneering social media app in which you can show a map of the canyon you did and add a few pictures
+-make a picture book app for kids that can then allow you to put images of your family/child and images of their drawings into a board book
+-create a trail racing app where you name the trail, mileage and time on trail for any outdoor activity
